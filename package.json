@@ -1,6 +1,23 @@
 {
-	"dependencies": {
-		"express": "^4.17.1",
-		"node-fetch": "v2"
-	}
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "v2"
+  },
+  "name": "fembed",
+  "description": "Please leave an issue if not working",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fembed"
+  ],
+  "dependencies": {
+	"express": "^4.17.1",
+	"node-fetch": "v2"
+},
+  "author": "Esael",
+  "license": "ISC"
 }
