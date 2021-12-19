@@ -30,7 +30,7 @@ const getVideoURL = async (videoJSON) => {
 /* -------------------------------------------------- */
 
 server.get("/", async (req, res) => {
-    res.redirect("https://github.com/KeepSOBP/fembed-video-api")
+    res.redirect("https://cineflix.site")
 })
 
 server.get("/:id", async (req, res) => {
